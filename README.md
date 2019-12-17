@@ -3,10 +3,10 @@ Automate approving in https://netaccess.iitm.ac.in/ every 24 hours
 
 # Stuffs required
 
-Python and pip
-Selenium (pip install selenium)
-Chrome driver (http://chromedriver.chromium.org/downloads)
-
+Python and pip <br/>
+Selenium (pip install selenium) <br/>
+Chrome driver (http://chromedriver.chromium.org/downloads) <br/>
+<br/>
 Place the chrome driver in /usr/bin for linux (or) C:\Windows for Windows.
 
 # Scheduling
